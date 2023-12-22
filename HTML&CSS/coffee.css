@@ -1,0 +1,7 @@
+ul#awesome {
+    color: red;
+  }
+  
+  ul.shopping-list li.favorite span {
+    color: blue;
+  }
